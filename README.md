@@ -36,6 +36,11 @@
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
+#### Решение
+
+1.![авторизация] (https://github.com/maxgn87/hw-02/blob/main/img/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg)
+2.![команды] (https://github.com/maxgn87/hw-02/blob/main/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.txt) 
+
 
 ---
 
@@ -57,5 +62,12 @@
 2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
+
+#### Решение
+1. ![hosts] (https://github.com/maxgn87/hw-02/blob/main/img/Hosts.jpg)
+2. ![logs] (https://github.com/maxgn87/hw-02/blob/main/img/Logs.jpg)
+3. ![lat_data] (https://github.com/maxgn87/hw-02/blob/main/img/latest_data.jpg)
+4. ![lat_data] (https://github.com/maxgn87/hw-02/blob/main/img/latest_data_zabbix_server.jpg)
+5.  https://github.com/maxgn87/hw-02/blob/main/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.txt
 
 
